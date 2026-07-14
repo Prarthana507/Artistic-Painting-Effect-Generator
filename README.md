@@ -41,3 +41,6 @@ It also saves the generated image inside the **output** folder.
 - Bilateral Filtering
 - Canny Edge Detection
 - Morphological Operations
+
+## Author
+Prarthana V
