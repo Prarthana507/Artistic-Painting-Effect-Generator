@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 # Read image
-img = cv2.imread("images/flower.jpg")
+img = cv2.imread("flower.jpg")
 if img is None:
     print("Error: Image not found!")
     exit()
